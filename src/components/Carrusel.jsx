@@ -16,7 +16,14 @@ export const Carrusel = () => {
             <Carousel.Item>
               <img
                 className="d-block w-100 banner"
-                src={banner}
+                src={banner3}
+                alt="First slide"
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <img
+                className="d-block w-100 banner"
+                src={banner4}
                 alt="First slide"
               />
             </Carousel.Item>
@@ -24,20 +31,13 @@ export const Carrusel = () => {
               <img
                 className="d-block w-100 banner"
                 src={banner2}
-                alt="First slide"
-              />
-            </Carousel.Item>
-            <Carousel.Item>
-              <img
-                className="d-block w-100 banner"
-                src={banner3}
                 alt="Second slide"
               />
             </Carousel.Item>
             <Carousel.Item>
               <img
                 className="d-block w-100 banner"
-                src={banner4}
+                src={banner}
                 alt="Third slide"
               />
             </Carousel.Item>

@@ -10,8 +10,8 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="98"
-          style={{ width: "98%" }}
+          aria-valuenow="95"
+          style={{ width: "95%" }}
         >
           98%
         </div>
@@ -24,8 +24,8 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="98"
-          style={{ width: "98%" }}
+          aria-valuenow="95"
+          style={{ width: "95%" }}
         >
           98%
         </div>
@@ -38,8 +38,8 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="98"
-          style={{ width: "98%" }}
+          aria-valuenow="95"
+          style={{ width: "95%" }}
         >
           98%
         </div>
@@ -51,8 +51,8 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="98"
-          style={{ width: "98%" }}
+          aria-valuenow="95"
+          style={{ width: "95%" }}
         >
           98%
         </div>
