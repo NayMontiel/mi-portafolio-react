@@ -208,5 +208,11 @@
         "title": "Journal App Curso React",
         "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1675898726/mi-portafolio/gtlu8oh0ujo5qesx3zgs.png",
         "url": "https://naymontiel-journal-app-con-vite.netlify.app/auth/login"
+    },
+    {
+        "id": "0035",
+        "title": "Calendar App Curso React",
+        "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1678738639/certificados/qzpn9od5v7jdmzuohrso.png",
+        "url": "https://naymontiel-calendar-app-react.netlify.app/auth/login"
     }
 ]
