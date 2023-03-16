@@ -177,12 +177,21 @@ footer .container p{
 /* responsive */
 /* dispositivos sm */
 @media screen and (max-width: 576px) {
+    header {
+        margin-top: 0;
+    }
+    header .logo img-logo {
+        font-size: 10px
+    }
+    header .logo h6{
+        font-size: 12px;
+    }
     .body{
         position: fixed;
         padding-bottom: 1em;
         min-height: 100vh;
     }
-    
+        
     .card{
         width: 100%;
       }

@@ -6,9 +6,10 @@ export const NavBar = () => {
   return (
     <header className="container my-3">
         <div className="nav row g-0 justify-content-between rounded">
-            <div className="logo col-auto d-flex align-items-center ps-4">
+            {/* logotipo */}
+            <div className="logo col-auto d-flex align-items-center justify-content-center ps-4">
                 <Link to='/'>
-                    <img src={logo} alt="logo" />
+                    <img src={logo} alt="logo" className='img-logo' />
                 </Link>
                
                 <div className="icon">
@@ -18,7 +19,8 @@ export const NavBar = () => {
                 </div>
                 <h6 className="mb-0">Desarrollador Front-End Con React</h6>
             </div>
-            <nav className="menu col-auto d-flex align-items-stretch">
+            {/* menu */}
+            <nav className="menu col-12 col-lg-auto d-flex align-items-stretch">
                 <NavLink 
                 to="/portafolio" 
                 className="c1 px-4 d-flex align-items-center text-center text-dark text-decoration-none"

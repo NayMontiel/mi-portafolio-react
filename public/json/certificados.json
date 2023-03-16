@@ -34,6 +34,18 @@
         "title": "Desarrollador Front End con React",
         "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1676070014/certificados/socn5cndbzoz4igazqrc.png",
         "url": "https://desafiosdev.s3.amazonaws.com/uploads/certification/image/19894/aprobacion-final-proyecto-final-g1-11533.png"
+    },
+    {
+        "id": "07",
+        "title": "React: de cero a experto(Hooks y MERN)",
+        "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1678810149/certificados/rnxj70npvluysdvbmnd8.png",
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-e8645456-59f0-4293-b22e-578f8a91f467.jpg"
+    },
+    {
+        "id": "08",
+        "title": "Bootstrap 5: El curso completo y practico de cero",
+        "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1678939696/certificados/hveinr6vwjvivsshlwjk.png",
+        "url": "https://udemy-certificate.s3.amazonaws.com/image/UC-24581ede-ba26-4144-bc6b-5f375d4bf11b.jpg"
     }
   
 ]
