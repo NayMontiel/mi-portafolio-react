@@ -256,5 +256,17 @@
         "title": "Calendar App Curso React",
         "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1678806893/mi-portafolio/vo2yo8oixbspakphx2mv.png",
         "url": "https://naymontiel-calendar-app-react.netlify.app/auth/login"
+    },
+    {
+        "id": "0044",
+        "title": "Weather App con React y Material-UI",
+        "image": "https://res.cloudinary.com/dapqienlw/image/upload/v1680632418/mi-portafolio/rxtlgav36hhnccwidsyt.png",
+        "url": "https://naymontiel-weather-app.netlify.app/"
+    },
+    {
+        "id": "0045",
+        "title": "Practica Componentes de Material-UI",
+        "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1680719035/mi-portafolio/c8axnwde7kxrqzzm3nmn.png",
+        "url": "https://naymontiel-calendar-app-react.netlify.app/auth/login"
     }
 ]

@@ -10,10 +10,10 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="95"
-          style={{ width: "95%" }}
+          aria-valuenow="80"
+          style={{ width: "80%" }}
         >
-          98%
+          80%
         </div>
       </div>
 
@@ -24,10 +24,10 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="95"
-          style={{ width: "95%" }}
+          aria-valuenow="80"
+          style={{ width: "80%" }}
         >
-          98%
+          80%
         </div>
       </div>
 
@@ -38,10 +38,10 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="95"
-          style={{ width: "95%" }}
+          aria-valuenow="80"
+          style={{ width: "80%" }}
         >
-          98%
+          80%
         </div>
       </div>
       <p className="label mb-2">REACT</p>
@@ -51,10 +51,10 @@ export const ProgressBar = () => {
           role="progressbar"
           aria-valuemin="0"
           aria-valuemax="100"
-          aria-valuenow="95"
-          style={{ width: "95%" }}
+          aria-valuenow="80"
+          style={{ width: "80%" }}
         >
-          98%
+          80%
         </div>
       </div>
     </>
