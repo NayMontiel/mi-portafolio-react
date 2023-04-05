@@ -3,7 +3,7 @@ import logo from "../assets/img/logo.png";
 export const Footer = () => {
   return (
     <footer>
-      <div className="container">
+      <div className="container rounded">
         <div className="row redes-sociales justify-content-center">
           <div className="col-auto mt-3 text-center">
             <img src={logo} alt="logo" />

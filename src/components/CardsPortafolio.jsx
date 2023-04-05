@@ -12,7 +12,7 @@ export const CardsPortafolio = () => {
       <div className="grid-columns-3">
       {info.map((item) => (
         <Card 
-          className="card animate__animated animate__flipInY mb-3 "
+          className="card animate__animated animate__flipInY mb-3 pb-3"
           key={item.id}
         >
           <Card.Img variant="top" src={item.image} className="card-img-top" />

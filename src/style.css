@@ -44,19 +44,21 @@ header .menu .c2:hover{background: #dfb8b7;}
 header .menu .c3:hover{background: #dfb8b7;}
 
 .banner{
-    border-radius: 15px;
-    height: 500px;
-    /* border-top: 5px solid #4b3d3d; */
+    border-radius: 15px;   
+    border-top: 5px solid #4b3d3d;
+    width: 920px;
+}
+.img{
+    height: 350px;    
 }
 .btn-certificados{
     background: rgb(172,92,115);
     font-weight: 500;
     font-size: 20px;
     text-decoration: none;
-    margin-bottom: 10px;
     color: white;
     border-radius: 7px;
-    margin-bottom: 25px;
+    
 }
 .btn-certificados:hover{
     background: radial-gradient(circle, rgba(172,92,115,1) 0%, rgba(223,152,152,1) 50%, rgba(75,61,61,1) 100%);
@@ -84,13 +86,13 @@ main .titulo{
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    /* padding-right: 5px;
-    padding-left: 20px; */
-    gap: 12px;
+    gap: 16px;
+    
 }
 
   .card{
     width: 32%;
+    
   }
   .card-img-top{
     width: 100%;
@@ -162,7 +164,8 @@ section #foto{
 /* footer */
 footer .container{
     background: linear-gradient(129deg, rgba(172,92,115,1) 0%, rgba(223,152,152,1) 50%, rgba(75,61,61,1) 100%);
-    margin-top: 5em;
+    margin-top: 3em;
+    margin-bottom: 1em;
 }
 footer .container .icon{
     display: inline-block;
