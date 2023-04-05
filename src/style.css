@@ -46,7 +46,7 @@ header .menu .c3:hover{background: #dfb8b7;}
 .banner{
     border-radius: 15px;   
     border-top: 5px solid #4b3d3d;
-    width: 920px;
+    width: auto;
 }
 .img{
     height: 350px;    
