@@ -267,6 +267,12 @@
         "id": "0045",
         "title": "Practica Componentes de Material-UI",
         "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1680719035/mi-portafolio/c8axnwde7kxrqzzm3nmn.png",
-        "url": "https://naymontiel-calendar-app-react.netlify.app/auth/login"
+        "url": "https://naymontiel-practing-material-ui-react.netlify.app/"
+    },
+    {
+        "id": "0046",
+        "title": "Practica React Router v6.4",
+        "image": "http://res.cloudinary.com/dapqienlw/image/upload/v1681163680/mi-portafolio/lyvrv9xigmb3qf8cdqnr.png",
+        "url": "https://naymontiel-react-router-v64-practica.netlify.app/"
     }
 ]
