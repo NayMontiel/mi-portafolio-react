@@ -106,7 +106,7 @@ main .card-title:hover{
     color: #dfb8b7;
 }
 /* acerca de */
-section #foto{
+#foto{
    width: 200px;
    height: 200px; 
 }
